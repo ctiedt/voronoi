@@ -1,0 +1,8 @@
+[package]
+name = "voronoi"
+version = "0.1.0"
+authors = ["Clemens Tiedt <clemenstiedt@gmx.de>"]
+
+[dependencies]
+image = "*"
+rand = "*"
